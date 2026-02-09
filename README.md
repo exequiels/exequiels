@@ -14,6 +14,30 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![English C3](https://img.shields.io/badge/English-C3_Level-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)
 
+## 🚀 Current Project
+
+### 🏗️ BIM & ACC Project Management Platform
+**Full Stack Developer | 2021 - Present**
+
+A comprehensive project management solution for the construction industry.
+
+**🔧 Technologies Used:**
+- **Legacy Stack:** PHP, MySQL, Bootstrap, HTML/CSS
+- **Modern Stack:** React, TypeScript, AWS (ECR, EC2, RDS, S3)
+- **APIs:** Autodesk BIM 360, ACC Integration
+
+**📋 Key Responsibilities:**
+- Built platform from scratch with small development team
+- Integrated Autodesk APIs for project and user management
+- Led transition from legacy PHP to modern React + AWS architecture
+- Ongoing feature development, maintenance, and system expansion
+
+**🎯 Achievement:** Platform successfully acquired by corporate construction group
+
+*References available upon request*
+
+---
+
 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/exequiel-sabatie)
