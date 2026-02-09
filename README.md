@@ -38,11 +38,14 @@ A comprehensive project management solution for the construction industry.
 
 ---
 
+## 🏆 Certifications & Credentials
+
+[![View Certifications](https://img.shields.io/badge/View_Certifications-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/exequiel-sabatie/badges#credly)
+
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/exequiel-sabatie)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://portfolio.sabatie.com.ar/)
-[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/exequiel-sabatie/badges#credly)
 <!--
 **exequiels/exequiels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
